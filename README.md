@@ -1,0 +1,2 @@
+# jsclassPatern
+Javascript Class Pater
