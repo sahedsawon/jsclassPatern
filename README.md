@@ -1,2 +1,4 @@
 # jsclassPatern
-Javascript Class Pater
+Javascript Class Pattern inclueds 
+  - Functional Pattern 
+  - Prototype Pattern
